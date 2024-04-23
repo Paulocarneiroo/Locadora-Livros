@@ -17,6 +17,7 @@ public class BancoDeDados {
         livros.add(new Livro("As Crônicas de Nárnia", 60));
         livros.add(new Livro("Cartas de um Diabo a seu Aprendiz", 53));
         livros.add(new Livro("Cristianismo puro e simples ", 42));
+        livros.add(new Livro("Senhor dos Anéis: A Sociedade do Anel", 44));
     }
 
     public List<Usuario> getUsuarios() {
